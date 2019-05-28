@@ -1,6 +1,7 @@
-## Coffee Droper api
+# Coffee Droper api
 
-A uk postcode coffee store locator api and web interface
+A uk postcode coffee store locator api and web interface done with laravel
 
-to install 
--php artisan migrate --seed 
+## To install
+
+php artisan migrate --seed 
