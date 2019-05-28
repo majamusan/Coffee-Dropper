@@ -1,4 +1,4 @@
-# Coffee Droper api
+# Coffee Dropper api
 
 A uk postcode coffee store locator api and web interface done with laravel
 
